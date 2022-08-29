@@ -1,0 +1,35 @@
+body {
+    background-image: radial-gradient(magenta,purple);
+    height: 100%;
+    width: 100%;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note
+{
+    font-size: 15px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width: 100%;
+    background-color:rgb(181, 102, 246);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+   border:5px solid rgb(255, 0, 217);
+   border-radius:20px;
+
+}
+video{
+    border:5px solid rgb(0, 17, 255);
+    border-radius:20px; 
+    background-color:orange;
+}
